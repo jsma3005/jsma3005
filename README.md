@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, World! 👋
+## Понятия не имею, что писать сюда, поэтому напишу алгоритм успеха:
+
+```
+while(noSuccess){
+  tryAgain();
+  if(success){
+    nextLevel();
+  }
+}
+```
 
 <!--
 **jsma3005/jsma3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
