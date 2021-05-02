@@ -3,10 +3,13 @@
 
 ```
 while(noSuccess){
+
   tryAgain();
+  
   if(success){
     goToNextLevel();
   }
+  
 }
 ```
 
