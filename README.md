@@ -5,7 +5,7 @@
 while(noSuccess){
   tryAgain();
   if(success){
-    nextLevel();
+    goToNextLevel();
   }
 }
 ```
